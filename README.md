@@ -1,4 +1,8 @@
-### Hi there 👋
+<!--## About me
+- Software Engineer Intern at [Master Micro](https://adt.master-micro.com/) working on the ADT project.
+- Computer Engineering Student at [Faculty of Engineering Cairo University](http://eng.cu.edu.eg/en/).
+- I am passionate about DevOps, Cloud Computing and Quantum Computing.
+-->
 
 <!--
 **AymanAzzam/AymanAzzam** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
