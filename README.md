@@ -13,7 +13,7 @@
 <p align="center">
 	<a href="https://www.linkedin.com/in/ayman-azzam-42b266145"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 	<a href="https://instagram.com/a.y.m.a.n_a.z.z.a.m"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="instagram"/></a>
-<a href="https://www.youtube.com/channel/UCPUXTpTn3FaZEvZuZ_Jrkdg" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://www.youtube.com/channel/ucpuxtptn3fazevzuz_jrkdg" height="30" width="40" /></a>
+	<a href="https://www.youtube.com/channel/UCPUXTpTn3FaZEvZuZ_Jrkdg"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="instagram"/></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
