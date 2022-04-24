@@ -9,8 +9,8 @@
 
 - 📄 Know about my experiences [DevOps/SRE CV](https://docs.google.com/document/d/1hb-rqSPwoQqiDXT85M7XUM34OuzTrvZG_lyGGwRgce0/edit)
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
+## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px"> Connect with me
+<p align="center">
 <a href="https://linkedin.com/in/ayman-azzam-42b266145" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/ayman-azzam-42b266145" height="30" width="40" /></a>
 <a href="https://instagram.com/a.y.m.a.n_a.z.z.a.m" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/a.y.m.a.n_a.z.z.a.m" height="30" width="40" /></a>
 <a href="https://www.youtube.com/channel/UCPUXTpTn3FaZEvZuZ_Jrkdg" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://www.youtube.com/channel/ucpuxtptn3fazevzuz_jrkdg" height="30" width="40" /></a>
