@@ -26,7 +26,7 @@
 <p align="center">
   	&emsp; 
 	<a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> 
-		<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> 
+		<img src="https://raw.githubusercontent.com/simple-icons/simple-icons/fc042e56ff02ae3265fd7c72d8f3e245126cd181/icons/amazonaws.svg" alt="aws" width="40" height="40"/> 
 	</a>
 	&emsp;
 	<a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer"> 
