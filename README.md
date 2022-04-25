@@ -39,7 +39,7 @@
 <p align="center">
   	&emsp; 
 	<a href="https://www.jenkins.io" target="_blank" rel="noreferrer"> 
-		<img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-official.svg" alt="jenkins"/> 
+		<img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-ar21.svg" alt="jenkins"/> 
 	</a> 
 </p>
 
@@ -48,7 +48,7 @@
 <p align="center">
   	&emsp; 
 	<a href="https://www.docker.com/" target="_blank" rel="noreferrer"> 
-		<img src="https://www.vectorlogo.zone/logos/docker/docker-official.svg" alt="docker"/> 
+		<img src="https://www.vectorlogo.zone/logos/docker/docker-ar21.svg" alt="docker"/> 
 	</a> 
 </p>
 
@@ -57,11 +57,11 @@
 <p align="center">
   	&emsp; 
 	<a href="https://www.python.org" target="_blank" rel="noreferrer"> 
-		<img src="https://www.vectorlogo.zone/logos/python/python-official.svg" alt="python"/> 
+		<img src="https://www.vectorlogo.zone/logos/python/python-ar21.svg" alt="python"/> 
 	</a> 
 	&emsp; 
 	<a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> 
-		<img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-official.svg" alt="bash"/> 
+		<img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-ar21.svg" alt="bash"/> 
 	</a> 
 </p>
 
