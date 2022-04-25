@@ -14,9 +14,9 @@
 	&emsp;
 	<a href="https://www.linkedin.com/in/ayman-azzam-42b266145"><img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg"/></a>
 	&emsp;
-	<a href="https://instagram.com/a.y.m.a.n_a.z.z.a.m"><img src="https://www.vectorlogo.zone/logos/youtube/youtube-icon.svg" alt="instagram"/></a>
+	<a href="https://instagram.com/a.y.m.a.n_a.z.z.a.m"><img src="https://www.vectorlogo.zone/logos/instagram/instagram-icon.svg" alt="instagram"/></a>
 	&emsp;
-	<a href="https://www.youtube.com/channel/UCPUXTpTn3FaZEvZuZ_Jrkdg"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="instagram"/></a>
+	<a href="https://www.youtube.com/channel/UCPUXTpTn3FaZEvZuZ_Jrkdg"><img src="https://www.vectorlogo.zone/logos/youtube/youtube-icon.svg" alt="youtube"/></a>
 </p>
 
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px"> My Skills
