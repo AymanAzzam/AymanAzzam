@@ -104,7 +104,7 @@
 <p align="center">
   	&emsp; 
 	<a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> 
-		<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> 
+		<img src="https://www.vectorlogo.zone/logos/mysql/mysql-official.svg" alt="mysql"/> 
 	</a> 
 </p>
 
@@ -122,6 +122,14 @@
 <p align="center">
   	&emsp; 
 	<a href="https://git-scm.com/" target="_blank" rel="noreferrer"> 
-		<img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> 
+		<img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg" alt="git"/> 
+	</a> 
+	&emsp; 
+	<a href="https://github.com/" target="_blank" rel="noreferrer"> 
+		<img src="https://www.vectorlogo.zone/logos/github/github-ar21.svg" alt="git"/> 
+	</a> 
+	&emsp; 
+	<a href="https://gitlab.com/" target="_blank" rel="noreferrer"> 
+		<img src="https://www.vectorlogo.zone/logos/gitlab/gitlab-ar21.svg" alt="git"/> 
 	</a> 
 </p>
