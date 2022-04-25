@@ -91,7 +91,7 @@
 	</a>
 	&emsp; 
 	<a href="https://www.w3schools.com/w3css/defaulT.asp" target="_blank" rel="noreferrer"> 
-		<img src="https://www.vectorlogo.zone/logos/w3_css/w3_css-official.svg" alt="html5"/> 
+		<img src="https://www.vectorlogo.zone/logos/w3_css/w3_css-ar21.svg" alt="html5"/> 
 	</a>
 	&emsp; 
 	<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> 
@@ -108,7 +108,7 @@
 <p align="center">
   	&emsp; 
 	<a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> 
-		<img src="https://www.vectorlogo.zone/logos/mysql/mysql-official.svg" alt="mysql"/> 
+		<img src="https://www.vectorlogo.zone/logos/mysql/mysql-ar21.svg" alt="mysql"/> 
 	</a> 
 </p>
 
