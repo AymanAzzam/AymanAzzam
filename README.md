@@ -43,6 +43,15 @@
 	</a> 
 </p>
 
+### 🔵 Infrastructure as code
+
+<p align="center">
+  	&emsp; 
+	<a href="https://www.ansible.com/" target="_blank" rel="noreferrer"> 
+		<img src="https://www.vectorlogo.zone/logos/ansible/ansible-ar21.svg" alt="docker"/> 
+	</a> 
+</p>
+
 ### 🔵 Containerization
 
 <p align="center">
