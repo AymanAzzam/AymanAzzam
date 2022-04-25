@@ -26,11 +26,11 @@
 <p align="center">
   	&emsp; 
 	<a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> 
-		<img src="https://raw.githubusercontent.com/simple-icons/simple-icons/fc042e56ff02ae3265fd7c72d8f3e245126cd181/icons/amazonaws.svg" alt="aws" width="40" height="40"/> 
+		<img src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-ar21.svg" alt="aws" width="40" height="40"/> 
 	</a>
 	&emsp;
 	<a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer"> 
-		<img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/> 
+		<img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-ar21.svg" alt="azure" width="40" height="40"/> 
 	</a> 
 </p>
 
