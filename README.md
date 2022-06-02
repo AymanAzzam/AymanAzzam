@@ -9,7 +9,7 @@
 
 - 📄 Know about my experiences [DevOps/SRE CV](https://docs.google.com/document/d/1hb-rqSPwoQqiDXT85M7XUM34OuzTrvZG_lyGGwRgce0/edit)
 
-## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px"> Connect with me
+## Connect with me
 <p align="center">
 	&emsp;
 	<a href="https://www.linkedin.com/in/ayman-azzam-42b266145"><img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg"/></a>
