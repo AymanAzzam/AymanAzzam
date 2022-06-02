@@ -19,7 +19,7 @@
 	<a href="https://www.youtube.com/channel/UCPUXTpTn3FaZEvZuZ_Jrkdg"><img src="https://www.vectorlogo.zone/logos/youtube/youtube-icon.svg" alt="youtube"/></a>
 </p>
 
-## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px"> My Skills
+## My Skills
 
 ### 🔵 Cloud Providers
 
