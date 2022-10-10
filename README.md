@@ -3,7 +3,7 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=aymanazzam&label=Profile%20views&color=0e75b6&style=flat" alt="aymanazzam" /> </p>
 
-- 🌱 I’m currently learning **kubernetes** and practising on bash 
+- 🌱 I’m currently learning **kubernetes** 
 
 - 📫 How to reach me **aymanazzam63@gmail.com**
 
