@@ -26,11 +26,15 @@
 <p align="center">
   	&emsp; 
 	<a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> 
-		<img src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-ar21.svg" alt="aws"/> 
+		<img src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-ar21.svg" alt="AWS"/> 
 	</a>
 	&emsp;
 	<a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer"> 
-		<img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-ar21.svg" alt="azure"/> 
+		<img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-ar21.svg" alt="AZURE"/> 
+	</a> 
+	&emsp;
+	<a href="https://cloud.google.com/" target="_blank" rel="noreferrer"> 
+		<img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-ar21.svg" alt="GCP"/> 
 	</a> 
 </p>
 
